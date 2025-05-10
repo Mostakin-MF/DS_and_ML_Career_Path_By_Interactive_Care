@@ -1,0 +1,13 @@
+Instructions:
+
+1. Properly Study the attached Python Notebooks on different Statistical Hypothesis Tests.
+2. Perform all the Tests with different (one or more) datasets (Synthetic/Downloaded from other sources).
+3. Define the Hypotheses (Null and Alternative) properly.
+3. Don't forget to Check the Assumption of the Applied Hypothesis Tests [Checking Normality, Homogeneity, then choose the appropriate Test (Parametric or Non-parametric)]4. Finally, Add Interpretation to each Test Output.
+
+
+*** Follow my way (Indexing) of Organizing the Notebook.
+
+Submission Deadline: Sat, May 10, 2025
+
+Submissions will be closed after Submission Deadline and won't be marked.
